@@ -1,4 +1,4 @@
-# formatador de código para criar snippet no vscode
+# formatador de código para criar snippets no vscode
 ### código:
 `className=""`</br>
 `styles=""`
