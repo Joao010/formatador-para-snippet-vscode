@@ -1,7 +1,7 @@
 # formatador de código para criar snippet no vscode
 ### código:
-###`className=""`
-###`styles=""`
+`className=""`
+`styles=""`
 ### código formatado:
-###`"className="","`
-###`"styles=""",`
+`"className="","`</br>
+`"styles=""",`
